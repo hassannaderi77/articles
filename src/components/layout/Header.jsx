@@ -1,5 +1,5 @@
 import { AppBar, Container, Toolbar, Typography } from "@mui/material"
-import BookIcon from "@mui/icons-material/book"
+import BookIcon from "@mui/icons-material/Book"
 
 function Header() {
   return (
